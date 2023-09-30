@@ -18,7 +18,7 @@ public class EVA1_5_ENTRADA_SALIDA {
         String nocontrol;
         String carrera;
         int semestre;
-        
+        hola
         System.out.println("Introduce tus apellidos");
         apellidos = input.nextLine();
         System.out.println("Introduce tu nombre");
